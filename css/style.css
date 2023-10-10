@@ -30,14 +30,14 @@
   text-justify: auto;
 }
 .card-superpuesta img {
-  filter: brightness(30%);
+  filter: brightness(60%);
 }
-.card-text {
+.card-text{
   font-size: small;
   text-align: justify;
-  
-  
 }
+  
+
 .card-img-overlay {
   text-align: right;
 }
